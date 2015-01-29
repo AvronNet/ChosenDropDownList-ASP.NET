@@ -63,3 +63,18 @@ D:\Projects VS\ChosenDropDownList\Work version\ChosenDropDownList\bin\Debug\Chos
 D:\Projects VS\ChosenDropDownList\Work version\ChosenDropDownList\obj\Debug\ChosenDropDownList.dll
 D:\Projects VS\ChosenDropDownList\Work version\ChosenDropDownList\obj\Debug\ChosenDropDownList.pdb
 D:\Projects VS\ChosenDropDownList\Work version\ChosenDropDownList\obj\Debug\ChosenDropDownList.csprojResolveAssemblyReference.cache
+D:\Projects VS\GitHub\ChosenDropDownList-ASP.NET\ChosenDropDownList\bin\Debug\js\chosen-create-option.jquery.js
+D:\Projects VS\GitHub\ChosenDropDownList-ASP.NET\ChosenDropDownList\bin\Debug\js\chosen.jquery.min.js
+D:\Projects VS\GitHub\ChosenDropDownList-ASP.NET\ChosenDropDownList\bin\Debug\jquery-1.10.2.min.js
+D:\Projects VS\GitHub\ChosenDropDownList-ASP.NET\ChosenDropDownList\bin\Debug\chosen-create-option.jquery.js
+D:\Projects VS\GitHub\ChosenDropDownList-ASP.NET\ChosenDropDownList\bin\Debug\chosen.jquery.min.js
+D:\Projects VS\GitHub\ChosenDropDownList-ASP.NET\ChosenDropDownList\bin\Debug\js\jquery-1.10.2.min.js
+D:\Projects VS\GitHub\ChosenDropDownList-ASP.NET\ChosenDropDownList\bin\Debug\img\chosen-sprite@2x.png
+D:\Projects VS\GitHub\ChosenDropDownList-ASP.NET\ChosenDropDownList\bin\Debug\img\chosen-sprite.png
+D:\Projects VS\GitHub\ChosenDropDownList-ASP.NET\ChosenDropDownList\bin\Debug\css\chosen.css
+D:\Projects VS\GitHub\ChosenDropDownList-ASP.NET\ChosenDropDownList\bin\Debug\chosen.css
+D:\Projects VS\GitHub\ChosenDropDownList-ASP.NET\ChosenDropDownList\bin\Debug\ChosenDropDownList.dll
+D:\Projects VS\GitHub\ChosenDropDownList-ASP.NET\ChosenDropDownList\bin\Debug\ChosenDropDownList.pdb
+D:\Projects VS\GitHub\ChosenDropDownList-ASP.NET\ChosenDropDownList\obj\Debug\ChosenDropDownList.csprojResolveAssemblyReference.cache
+D:\Projects VS\GitHub\ChosenDropDownList-ASP.NET\ChosenDropDownList\obj\Debug\ChosenDropDownList.dll
+D:\Projects VS\GitHub\ChosenDropDownList-ASP.NET\ChosenDropDownList\obj\Debug\ChosenDropDownList.pdb
